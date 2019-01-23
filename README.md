@@ -1,2 +1,2 @@
-# Kumar_Badbank
-This is bad bank exercise
+# badbank
+Bad Bank HW
